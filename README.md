@@ -6,3 +6,4 @@
   python TraceAS.py 'name или ip'
   
 # Видео  
+ https://youtu.be/HMWz2cW_7iQ
